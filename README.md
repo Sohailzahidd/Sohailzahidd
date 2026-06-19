@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi, I'm Sohail Zahid 
 
-<!--
-**Sohailzahidd/Sohailzahidd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Aspiring DevOps & Cloud Engineer
 
-Here are some ideas to get you started:
+I am passionate about Linux, Networking, Cloud Computing, and DevOps technologies. Currently, I am building my skills through hands-on projects and my 90-Day DevOps & Networking Journey.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+##  Skills
+
+- Linux
+- Networking
+- Git & GitHub
+- Shell Scripting
+- Docker
+- Kubernetes
+- AWS
+- Networking
+---
+
+##  Current Learning
+
+- Advanced Linux Administration
+- Docker
+- Kubernetes
+- CI/CD Pipelines
+- AWS Cloud Services
+
+---
+
+##  Featured Projects
+
+### 🔹 90 Days DevOps & Networking Journey
+Documenting my daily learning, labs, commands, and projects.
+
+### 🔹 CareerAI
+AI-powered career guidance platform built using TypeScript and Gemini API.
+
+### 🔹 Social Media Automation
+AI-powered social media automation platform for content generation and scheduling.
+
+---
+
+##  Goals for 2026
+
+- Become a DevOps Engineer
+- Build real-world Cloud Projects
+- Master Docker & Kubernetes
+- Learn Terraform
+- Contribute to Open Source
+
+---
+
+##  Connect With Me
+
+LinkedIn:
+www.linkedin.com/in/sohail-zahid2003
+
+GitHub:
+github.com/Sohailzahidd
