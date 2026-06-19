@@ -11,7 +11,7 @@ Passionate about building scalable, reliable, and automated infrastructure solut
 ### Operating Systems
 - Linux (Ubuntu)
 - Windows
-- 
+  
 ### Networking
 - IP Addressing
 - Subnetting
