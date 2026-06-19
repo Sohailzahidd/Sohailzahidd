@@ -2,7 +2,7 @@
 
 ## DevOps | Cloud | Linux | Infrastructure | Networking
 
-Passionate about building scalable, reliable, and automated infrastructure solutions. Focused on Linux administration, networking, cloud technologies, containerization, and automation through hands-on projects and real-world implementations.
+Building scalable, reliable, and automated infrastructure solutions. Focused on Linux administration, networking, cloud technologies, containerization, and automation through hands-on projects and real-world implementations.
 
 ---
 
